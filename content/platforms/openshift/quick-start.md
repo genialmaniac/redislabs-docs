@@ -13,7 +13,7 @@ workloads can use:
 
 1. Install the Redis Enterprise operator.
 
-1. Create a Redis Enterprise CRD to describe your desired cluster.
+1. Create a Redis Enterprise CR(Custom Resource) to describe your desired cluster.
 
 1. The operator reads this cluster description and deploys the various components on your K8s cluster.
 
