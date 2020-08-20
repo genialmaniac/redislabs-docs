@@ -6,7 +6,7 @@ categories: ["RI"]
 path: features/cluster-management/
 ---
 
-## Cluster Management Introduction {#cluster-management-intro}
+## Cluster management introduction {#cluster-management-intro}
 
 RedisInsight Cluster Management provides you with a GUI to manage your Redis Cluster with ease. Cluster Management comes with three different views to analyze your cluster architecture.
 
